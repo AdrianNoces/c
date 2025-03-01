@@ -34,7 +34,7 @@ int main() {
 	
 	double K = tan(45); // tangent
 	printf("tangent of 45 -> %lf\n", K);
-	
+
 	
 	return 0;
 }

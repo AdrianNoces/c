@@ -36,6 +36,7 @@ int main() {
         result = num1 - num2;
         break;
     default:
+        printf("\n%c is not valid", operator);
         break;
     }
 

@@ -44,6 +44,14 @@ int main() {
 	
 	const float PI = 3.14159;
 	printf("%.5f\n",  PI);
+
+	short int p;
+	unsigned char q;
+	unsigned int s;
+	long int w;
+	long long int t;
+	unsigned long long int u;
+	short int v;
 	
 	return 0;
 }
