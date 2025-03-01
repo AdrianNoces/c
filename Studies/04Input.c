@@ -16,6 +16,7 @@ int main() {
 	// & -> address-of
 	// &age -> the address-of age
 	scanf("%d", &age);
+	
 	getchar(); // clear input buffer
 	printf("\nYou are %d years old. \nwhat is your name? ", age);
 	
