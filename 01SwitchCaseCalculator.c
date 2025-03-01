@@ -39,7 +39,7 @@ int main() {
         break;
     }
 
-    printf("\n-> %lf\n", result);
+    printf("\n-> %lf\n\n", result);
     
     return 0;
 }
