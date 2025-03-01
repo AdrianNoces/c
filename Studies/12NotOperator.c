@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdbool.h>
+#include <ctype.h>
 
 int main() {
 
@@ -11,6 +12,7 @@ int main() {
 
     printf("\nis sunny? (Y N): ");
     scanf("%c", &isSunny);
+    
     isSunny = toupper(isSunny);
 
     switch (isSunny) {
