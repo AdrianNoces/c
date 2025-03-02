@@ -20,10 +20,10 @@ This repository contains my codes and practices while learning the C programming
 ## 🔧 How to Run the Code
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/NocesAdrian/c.git
 
 # Navigate to the directory
-cd your-repo
+cd c
 
 # Compile a C file using GCC
 gcc filename.c -o output
