@@ -18,19 +18,23 @@ This repository contains my codes and practices while learning the C programming
 - To help others who are also learning C
 
 ## 🔧 How to Run the Code
+#### Clone the repository
 ```sh
-# Clone the repository
 git clone https://github.com/NocesAdrian/c.git
-
-# Navigate to the directory
+```
+#### Navigate to the directory
+```sh
 cd c
-
-# Compile a C file using GCC
+```
+#### Compile a C file using GCC
+```sh
 gcc filename.c -o output
-
-# Run the program
+```
+#### Run the program
+```sh
 ./output
 ```
+
 
 ## 📢 Contributions
 This repository is mainly for personal learning, but feel free to open issues or suggest improvements.
