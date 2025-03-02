@@ -26,6 +26,7 @@ int add(int x, int y)
 char print(char name[])
 {
     printf("%s\n", name);
+    return 0;
 }
 
 // float etc
