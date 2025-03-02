@@ -2,7 +2,7 @@
 
 // functions cant see inside one another so this one come in handy
 
-// Hey main() i need two parameters name and age 
+// Hey main() i need two parameters in my arguments name and age 
 void Birthday(char name[], int age)
 {
     printf("happy birthday Dear %s\n", name);
