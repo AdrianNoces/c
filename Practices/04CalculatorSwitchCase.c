@@ -36,10 +36,11 @@ int main() {
         result = num1 - num2;
         break;
     default:
+        printf("\n%c is not valid", operator);
         break;
     }
 
-    printf("\n-> %lf\n", result);
+    printf("\n-> %lf\n\n", result);
     
     return 0;
 }
